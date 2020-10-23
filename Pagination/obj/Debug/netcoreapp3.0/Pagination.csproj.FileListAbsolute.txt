@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\bin\Debug\netcoreapp3.0\Pagination.exe
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\bin\Debug\netcoreapp3.0\Pagination.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\bin\Debug\netcoreapp3.0\Pagination.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\bin\Debug\netcoreapp3.0\Pagination.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\bin\Debug\netcoreapp3.0\Pagination.dll
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\bin\Debug\netcoreapp3.0\Pagination.pdb
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\obj\Debug\netcoreapp3.0\Pagination.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\obj\Debug\netcoreapp3.0\Pagination.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\obj\Debug\netcoreapp3.0\Pagination.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\obj\Debug\netcoreapp3.0\Pagination.dll
+C:\Users\Denis\Desktop\Новая папка C#\Pagination\Pagination\obj\Debug\netcoreapp3.0\Pagination.pdb
